@@ -3,6 +3,7 @@
 Today, generative artificial intelligence (AI) is highly capable of automating content creation, thereby driving the widespread proliferation of indistinguishable fake news at a rate that overwhelms fact-checkers. This study developed a system to predict whether a news article or statement, specifically political ones, should be classified as trusted or misinformation. The system employs a logistic regression model to predict directly extractable features and derived features from a DistilBERT model. Detailed analysis was conducted to comprehend the impact each feature has on the model's prediction.
 
 ## Folder Structure
+```
 cs4248-team29-Labeled-Unreliable-News/
 │
 ├── analysis_code/ # Directory for analyzing the impact of Valence-Arousal-Dominance (VAD)
@@ -23,6 +24,7 @@ cs4248-team29-Labeled-Unreliable-News/
 ├── README.md # README file with project information and instructions
 ├── baseline_log_reg_model.ipynb # Jupyter notebook for baseline logistic regression model
 └── distilbert_classifier.ipynb # Jupyter notebook for DistilBERT classification model
+```
 ## Acknowledgments
 - Mentor: Rishabh Anand
 - Team Members: A0219673W, A0218514J, A0219814B, A0201348N, A0280003Y
