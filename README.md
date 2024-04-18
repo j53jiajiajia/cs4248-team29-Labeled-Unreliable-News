@@ -25,6 +25,11 @@ cs4248-team29-Labeled-Unreliable-News/
 ├── baseline_log_reg_model.ipynb # Jupyter notebook for baseline logistic regression model
 └── distilbert_classifier.ipynb # Jupyter notebook for DistilBERT classification model
 ```
+## Dataset
+The dataset used for training includes data from multiple sources that have been preprocessed to fit the needs of our analysis. These sources include:
+- CompareNet
+- ISOT
+- LIAR
 ## Acknowledgments
 - Mentor: Rishabh Anand
 - Team Members: A0219673W, A0218514J, A0219814B, A0201348N, A0280003Y
