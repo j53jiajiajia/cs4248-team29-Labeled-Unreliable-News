@@ -7,7 +7,8 @@ Today, generative artificial intelligence (AI) is highly capable of automating c
 cs4248-team29-Labeled-Unreliable-News/
 │
 ├── analysis_code/ # Directory for analyzing the impact of Valence-Arousal-Dominance (VAD)
-│ └── log_emo.py # Code for logistic regression on emotional analysis
+│ ├── log_emo.py # Code for logistic regression on emotional analysis
+│ └── vad_plot.py # Code to generate 3D cluster plot using VAD values
 │
 ├── data_code/ # Directory for data manipulation and preprocessing
 │ ├── combine_data.py # Code to combine different datasets
