@@ -1,0 +1,16 @@
+empath==0.89
+imbalanced_learn==0.12.0
+imblearn==0.0
+lime==0.2.0.1
+matplotlib==3.8.3
+nltk==3.8.1
+numpy==1.26.4
+pandas==2.2.2
+scikit_learn==1.4.1.post1
+seaborn==0.13.2
+spacy==3.7.4
+textblob==0.18.0.post0
+textstat==0.7.3
+torch==1.13.1+cu116
+tqdm==4.66.2
+transformers==4.37.2
